@@ -1,2 +1,2 @@
 # Angular 2
-Open index.html in a browser
+View presentation online at https://angular2.snapmagic.com or clone repository and open index.html in a browser.
